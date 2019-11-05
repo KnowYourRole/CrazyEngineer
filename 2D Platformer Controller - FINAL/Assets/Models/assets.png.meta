@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: 244047f462889214e999c14e4a42282b
+timeCreated: 1478426872
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: assets_0
+    21300002: assets_1
+    21300004: assets_2
+    21300006: head
+    21300008: assets_4
+    21300010: leftarmup
+    21300012: body
+    21300014: rightarmup
+    21300016: leftarm1
+    21300018: rightarm
+    21300020: hand1
+    21300022: leftlegup
+    21300024: rightlegup
+    21300026: hand2
+    21300028: leftleg
+    21300030: rightleg
+    21300032: foot1
+    21300034: foot2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: assets_0
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 981
+        width: 206
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: assets_1
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 895
+        width: 145
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: assets_2
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 978
+        width: 358
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: head
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 678
+        width: 152
+        height: 182
+      alignment: 9
+      pivot: {x: 0.509161, y: 0.24282531}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: assets_4
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 829
+        width: 358
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftarmup
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 550
+        width: 44
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5068661, y: 0.8034132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: body
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 479
+        width: 163
+        height: 185
+      alignment: 9
+      pivot: {x: 0.50492233, y: 0.24427457}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightarmup
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 560
+        width: 44
+        height: 74
+      alignment: 9
+      pivot: {x: 0.50790125, y: 0.7879416}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftarm1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 484
+        width: 72
+        height: 62
+      alignment: 9
+      pivot: {x: 0.25085312, y: 0.68881917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightarm
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 495
+        width: 70
+        height: 60
+      alignment: 9
+      pivot: {x: 0.26426783, y: 0.659788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hand1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 425
+        width: 52
+        height: 49
+      alignment: 9
+      pivot: {x: 0.49125907, y: 0.506329}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftlegup
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 359
+        width: 64
+        height: 105
+      alignment: 9
+      pivot: {x: 0.31172037, y: 0.83392304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightlegup
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 360
+        width: 64
+        height: 107
+      alignment: 9
+      pivot: {x: 0.29956198, y: 0.8398771}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hand2
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 434
+        width: 52
+        height: 49
+      alignment: 9
+      pivot: {x: 0.16166452, y: 0.7615936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftleg
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 269
+        width: 48
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5911827, y: 0.78967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightleg
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 270
+        width: 47
+        height: 75
+      alignment: 9
+      pivot: {x: 0.59044564, y: 0.79006183}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: foot1
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 223
+        width: 53
+        height: 40
+      alignment: 9
+      pivot: {x: 0.3483475, y: 0.5126823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: foot2
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 223
+        width: 54
+        height: 41
+      alignment: 9
+      pivot: {x: 0.4167763, y: 0.5000007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

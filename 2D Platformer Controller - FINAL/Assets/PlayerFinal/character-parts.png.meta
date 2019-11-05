@@ -1,0 +1,367 @@
+fileFormatVersion: 2
+guid: 6b5fee2b3a2149644ac369363db7666a
+timeCreated: 1479319768
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pink-bird
+    21300002: pink-wing
+    21300004: character-head
+    21300006: blue-bird
+    21300008: blue-wing
+    21300010: green-bird
+    21300012: green-wing
+    21300014: character-left-arm1
+    21300016: character-body
+    21300018: character-right-arm1
+    21300020: red-bird
+    21300022: character-left-arm2
+    21300024: character-right-arm2
+    21300026: red-wing
+    21300028: character-hand1
+    21300030: character-hand2
+    21300032: character-left-leg2
+    21300034: character-left-leg1
+    21300036: character-right-leg1
+    21300038: character-right-leg2
+    21300040: character-feet1
+    21300042: character-feet2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pink-bird
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 764
+        width: 155
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pink-wing
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 788
+        width: 93
+        height: 61
+      alignment: 9
+      pivot: {x: 0.74687964, y: 0.5019882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-head
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 605
+        width: 199
+        height: 249
+      alignment: 9
+      pivot: {x: 0.4900933, y: 0.22154805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blue-bird
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 622
+        width: 155
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blue-wing
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 646
+        width: 93
+        height: 61
+      alignment: 9
+      pivot: {x: 0.7861781, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-bird
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 475
+        width: 155
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-wing
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 499
+        width: 93
+        height: 61
+      alignment: 9
+      pivot: {x: 0.73318183, y: 0.5161593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-left-arm1
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 537
+        width: 60
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5184489, y: 0.71419734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-body
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 337
+        width: 225
+        height: 255
+      alignment: 9
+      pivot: {x: 0.5226465, y: 0.23523165}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-right-arm1
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 537
+        width: 60
+        height: 105
+      alignment: 9
+      pivot: {x: 0.57051593, y: 0.6938314}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red-bird
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 328
+        width: 154
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-left-arm2
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 418
+        width: 98
+        height: 85
+      alignment: 9
+      pivot: {x: 0.3082624, y: 0.6421997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-right-arm2
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 418
+        width: 98
+        height: 85
+      alignment: 9
+      pivot: {x: 0.3141436, y: 0.6905507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red-wing
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 353
+        width: 93
+        height: 61
+      alignment: 9
+      pivot: {x: 0.7331822, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-hand1
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 333
+        width: 73
+        height: 68
+      alignment: 9
+      pivot: {x: 0.43248507, y: 0.5724797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-hand2
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 330
+        width: 74
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4189821, y: 0.6014714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-left-leg2
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 66
+        height: 103
+      alignment: 9
+      pivot: {x: 0.6294167, y: 0.76385975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-left-leg1
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 181
+        width: 88
+        height: 147
+      alignment: 9
+      pivot: {x: 0.3499943, y: 0.82222164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-right-leg1
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 186
+        width: 89
+        height: 147
+      alignment: 9
+      pivot: {x: 0.35167977, y: 0.82750404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-right-leg2
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 132
+        width: 66
+        height: 104
+      alignment: 9
+      pivot: {x: 0.6647126, y: 0.77625537}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-feet1
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 113
+        width: 74
+        height: 55
+      alignment: 9
+      pivot: {x: 0.31112176, y: 0.5705905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character-feet2
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 117
+        width: 73
+        height: 55
+      alignment: 9
+      pivot: {x: 0.3510826, y: 0.5282368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
